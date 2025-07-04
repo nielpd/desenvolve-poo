@@ -1,0 +1,7 @@
+Para o desenvolvimento do sistema de gerenciamento de biblioteca, o paradigma mais adequado é a programação orientada a objetos (POO).
+
+Isso porque as entidades do sistema — como livros, autores, usuários e empréstimos — possuem características próprias e se relacionam entre si de forma natural, o que é bem representado por classes e objetos.
+
+A POO permite reuso de código, como no caso de métodos reutilizáveis para validação ou manipulação de dados, e facilita a evolução do sistema, tornando-o mais modular, organizado e fácil de manter. Também melhora a clareza das interações entre os elementos, como um usuário que realiza empréstimos ou um livro que pertence a um autor.
+
+Dessa forma, a POO se destaca em eficiência, estrutura e escalabilidade frente aos demais paradigmas.
